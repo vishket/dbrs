@@ -1,6 +1,6 @@
-#DBRS Technical Assessment
+# DBRS Technical Assessment
 
-##To Run
+## To Run
 
 To access the Notebook, Navigate to
 
@@ -11,7 +11,7 @@ Enter password
 Inside the dbrs folder, click on the 'assessment.ipynb' file to launch the
 notebook
 
-##Downloading just the 2017 dataset
+## Downloading just the 2017 dataset
 
 *To filter only 2017 dataset*
 
@@ -28,14 +28,14 @@ delete each column that I did not need
 
 Finally, exported the new dataset as csv
 
-##Task 1
+## Task 1
 
 *Consider only the 10 most common overall complaint types. For each borough, how many of each of those 10 types were there in 2017?*
 
 I was able to implement this successfully and have provided further explanation
 in the Notebook
 
-##Task 2
+## Task 2
 
 *Consider only the 10 most common overall complaint types.  For the 10 most populous zip codes, how many of each of those 10 types were there in 2017?*
 
@@ -53,7 +53,7 @@ As a result, for this technical assessment I chose the above dataset to partiall
 implement Task 2. I have still explained the steps I would do if I had the
 correct dataset. Detailed explanation in Notebook
 
-##Task 3
+## Task 3
 
 *Considering all complaint types. Which boroughs are the biggest "complainers" relative to the size of the population in 2017? Meaning, calculate a complaint-index that adjusts for population of the borough.*
 
